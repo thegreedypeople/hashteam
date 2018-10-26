@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+[I'm a relative reference to a repository file](../hashteam/master/about)
+
 [Link](url) and ![Image](src)
 ```
 
