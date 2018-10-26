@@ -31,7 +31,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-[I'm a relative reference to a repository file](about.html)
+[test link](cvd.md)
 
 
 ### Jekyll Themes
